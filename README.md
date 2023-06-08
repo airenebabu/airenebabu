@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+guys!+👋;This+is+justin+x3....;Welcome+to+my+repo!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+guys!+👋;This+is+airene....;Welcome+to+my+repo!&center=true&size=30">
   </a>
 </h1>
 
@@ -12,24 +12,24 @@
 <img src="https://github.com/chikku3/chikku3/blob/main/images/WhatsApp%20Image%202023-05-21%20at%2017.30.09.jpg" height="250" width="250" align="right">
   </div>
 <li>
- <b>NAME:</b> JUSTIN KB</li>
+ <b>NAME:</b> AIRENE</li>
 <li>
-<b>AGE:</b> 19
+<b>AGE:</b> 18
 </li>
 <li>
 <b>NATIONALITY:</b> INDIAN🇮🇳
 </li>
 <li>
-<b>GENDER:</b> HE/HIS/MALE🪐
+<b>GENDER:</b> SHE/HER/FEMALE🪐
 </li>
 <li>
-<b>EDUCATION:</b> CS STUDENT NCAS 
+<b>EDUCATION:</b> BCA STUDENT NCAS 
 </li>
 <li>
-<b>HOBIES:</b> CUBING,EXPLORING
+<b>HOBIES:</b> CUBING,EXPLORING,READING
 </li>
 <li>
-<b>LANGUAGES:</b> ENGLISH,MALAYALAM,HINDHI
+<b>LANGUAGES:</b> ENGLISH,MALAYALAM
 </li>
 <li>
 <b>OTHERS:</b> X KUAKER,EDITOR
@@ -41,8 +41,8 @@
 <h1 align="center"><b>ʀᴇᴀᴄʜ ᴍᴇ 👇🏻</b></h1>
 <br><br><br>
 <h5 align="center">
- <code><a href="https://www.instagram.com/jxtn.x3/" title="Instagram Profile"><img width="60" src="images/instagram.svg"></a></code>          
-<code><a href="http://api.whatsapp.com/send?phone=17023000033&text=Hi%20justin" title="whatsapp"><img width="60" src="images/wa.png"></a></code>
+ <code><a href="https://www.instagram.com/___iree/" title="Instagram Profile"><img width="60" src="images/instagram.svg"></a></code>          
+<code><a href="http://api.whatsapp.com/send?phone=17023000033&text=Hi%20airene" title="whatsapp"><img width="60" src="images/wa.png"></a></code>
 <br>
 <br>
 <code><a href="http://t.me/kokachy_xD" title="telegram"><img width="60" src="images/tg.png"></a></code>          
@@ -50,7 +50,7 @@
 <br>
 <br>
 <code><a href="https://pin.it/2lABB3m" title="pintrest"><img width="60" src="images/pt.png"></a></code>          
-<code><a href="dev.justin112@gmail.com" title="gmail"><img width="60" src="images/gm.png"></a></code>
+<code><a href="airenebabu@gmail.com" title="gmail"><img width="60" src="images/gm.png"></a></code>
 <br>
 <br>
 
