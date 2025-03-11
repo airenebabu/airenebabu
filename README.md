@@ -17,7 +17,7 @@
 <b>AGE:</b> 18
 </li>
 <li>
-<b>NATIONALITY:</b> INDIAN🇮🇳
+<b>NATIONALITY:</b> INDIA
 </li>
 <li>
 <b>GENDER:</b> SHE/HER/FEMALE🪐
@@ -26,51 +26,18 @@
 <b>EDUCATION:</b> BCA STUDENT NCAS 
 </li>
 <li>
-<b>HOBIES:</b> CUBING,EXPLORING,READING
+<b>HOBIES:</b> READING, SINGING
 </li>
 <li>
 <b>LANGUAGES:</b> MALAYALAM,ENGLISH,TAMIL
 </li>
 <li>
-<b>OTHERS:</b> X KUAKER,EDITOR
+<b>OTHERS:</b> ML&AI STUDENT
 </li>
 
 <br><br><br>
 
 
-<h1 align="center"><b>ʀᴇᴀᴄʜ ᴍᴇ 👇🏻</b></h1>
-<br><br><br>
-<h5 align="center">
- <code><a href="https://www.instagram.com/___iree/" title="Instagram Profile"><img width="60" src="images/instagram.svg"></a></code>          
-<code><a href="http://api.whatsapp.com/send?phone=17023000033&text=Hi%20airene" title="whatsapp"><img width="60" src="images/wa.png"></a></code>
-<br>
-<br>
-<code><a href="http://t.me/kokachy_xD" title="telegram"><img width="60" src="images/tg.png"></a></code>          
-<code><a href="https://www.snapchat.com/add/jxtn.x3?share_id=Vbex_QFppaw&locale=en-IN" title="snapchat"><img width="60" src="images/sp.png"></a></code>
-<br>
-<br>
-<code><a href="https://pin.it/2lABB3m" title="pintrest"><img width="60" src="images/pt.png"></a></code>          
-<code><a href="airenebabu@gmail.com" title="gmail"><img width="60" src="images/gm.png"></a></code>
-<br>
-<br>
-
-<div align="center">
-<h3><b><u>if you like my works and want to motivate me😊</u></b></h3>
-<a href="https://www.buymeacoffee.com/devjustin1P" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align="center">
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=justinx3&theme=react&border=61dafb&hide_border=true" alt="justinx3" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=justinx3&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-</p>
 
 
  
