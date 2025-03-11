@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.airenebabu">
-
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+guys!+👋;This+is+airene....;Welcome+to+my+repo!&center=true&size=30">
